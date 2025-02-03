@@ -6,11 +6,12 @@ Project Repository - Data Mining for Big Data: Bitcoin Price Prediction & Commun
 This project was conducted as part of the **Data Mining for Big Data** course in our Master's program in Computer Science, specializing in Machine Learning and Data Mining. The project is divided into two main tasks:
 
 ### 1. Bitcoin Price Prediction
-Using historical Bitcoin data, we developed machine learning / time series models to predict the Bitcoin price based on the data from the first 6 days. The models used include:
+Using data associated with Bitcoin, we developed machine learning and time series models to predict the price of Bitcoin on the seventh day, based on data from the previous six days. The models used include:
+- **Baseline**
+- **Random Forest**
 - **(Robust) Linear Regression**
 - **ARIMA** 
 - **LSTM** 
-- **Baseline**
 
 ### 2. Community Detection
 The second part of the project focuses on analyzing interactions among Bitcoin market players over time using community detection techniques. The following algorithms were applied:
