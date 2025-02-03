@@ -1,4 +1,4 @@
-# Project Repository - Data Mining for Big Data: Bitcoin Price Prediction & Community Detection Project
+Project Repository - Data Mining for Big Data: Bitcoin Price Prediction & Community Detection Project
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_de_l%27Université_Jean_Monnet_Saint-Etienne.png/640px-Logo_de_l%27Université_Jean_Monnet_Saint-Etienne.png" alt="Université Jean Monnet" title="Université Jean Monnet">
 ============
 
